@@ -1,0 +1,16 @@
+# OrderStatusHistoryItem
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | **str** |  | [optional] 
+**name** | **str** |  | [optional] 
+**modified_time** | [**A2CDateTime**](A2CDateTime.md) |  | [optional] 
+**notify** | **bool** |  | [optional] 
+**comment** | **str** |  | [optional] 
+**additional_fields** | **object** |  | [optional] 
+**custom_fields** | **object** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
